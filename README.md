@@ -2,8 +2,16 @@
 
 ## 简介
 
-恶搞趣味小程序。
+恶搞趣味微信小程序。
 目前正在开发中阶段，如有建议或Bug请联系客服或反馈
+
+## 扫码畅玩
+
+|微信小程序码| 作者微信(请备注来源) | 赞赏码(觉得不错打个赏😁) |
+| :------: | :------: | :------: |
+| <img src="./assets/image/mp.jpg" width="200px"> | <img src="./assets/image/wx.jpg" width="200px"> | <img src="./assets/image/zanshang.jpg" width="200px"> | 
+|
+
 
 ## 版本
 
